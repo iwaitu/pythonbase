@@ -25,4 +25,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: iwaitu/ubuntu:22.04
+        tags: iwaitu/pythongpt:22.04
