@@ -1,7 +1,5 @@
 FROM ubuntu:22.04
 
-EXPOSE 8080
-
 RUN apt-get update && apt-get install -y \
     apt-utils \
     vim \
